@@ -6,7 +6,7 @@ install commands
 
 git clone https://github.com/AymenDz001/Facebook-hacker-
 
-cd Facebook-hacker
+cd Facebook-hacker-
 
 python Facebook-hacker
 
