@@ -5,10 +5,15 @@
 Installation instructions for the tool: 
 
 pip install time
+
 pip install requests
+
 pip install bs4 
+
 pip install BeautifulSoup
+
 pip install os
+
 pkg install git 
 
 git clone https://github.com/AymenDz001/Facebook-hacker-er-
