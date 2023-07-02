@@ -17,7 +17,7 @@ pip install os
 pkg install git 
 
 git clone 
-https://github.com/AymenDz001/Facebook-hacker-er-
+https://github.com/AymenDz001/Facebook-hacker-
 
 cd Facebook-hacker-
 
